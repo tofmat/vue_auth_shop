@@ -1,38 +1,44 @@
 [
   {
-    "_id": "5dbda1c390af95e98234e1f1",
+    "id": "5dbda1c390af95e98234e1f1",
     "title": 0,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 0
+    "price": "500.00",
+    "name": "First Product"
   },
   {
-    "_id": "5dbda1c392cacb6ab81d057e",
+    "id": "5dbda1c392cacb6ab81d057e",
     "title": 1,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 1
+    "price": "600.00",
+    "name": "Second Product"
   },
   {
-    "_id": "5dbda1c3005b90c0b795ae53",
+    "id": "5dbda1c3005b90c0b795ae53",
     "title": 2,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 2
+    "price": "800.00",
+    "name": "Third Product"
   },
   {
-    "_id": "5dbda1c3a91c49db1f3811cb",
+    "id": "5dbda1c3a91c49db1f3811cb",
     "title": 3,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 3
+    "price": "900.00",
+    "name": "Fourth Product"
   },
   {
-    "_id": "5dbda1c315e5e9ad1b1545e5",
+    "id": "5dbda1c315e5e9ad1b1545e5",
     "title": 4,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 4
+    "price": "120.00",
+    "name": "Fifth Product"
   },
   {
-    "_id": "5dbda1c3bf1cee75ff22c84c",
+    "id": "5dbda1c3bf1cee75ff22c84c",
     "title": 5,
     "image": "https://picsum.photos/id/237/200/300",
-    "price": 5
+    "price": "190.00",
+    "name": "Sixth Product"
   }
-]
+] 
